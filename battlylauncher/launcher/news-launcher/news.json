@@ -1,0 +1,65 @@
+[
+    {
+        "id": "9",
+        "title": "<span style='font-size: 22'>Hoy se cumplen 6 meses del lanzamiento de Battly</span>",
+        "content": "Este mensaje, es simplemente un agradecimiento como todos los que os he mandado desde el lanzamiento de Battly.\n\nDesde esos primeros 10 usuarios, a esos 100, y luego a esos 1000, Battly sigue creciendo a diario acumulando más y más descargas, que a día de hoy se encuentra con más de 650.000 descargas. Haciendo cálculos, casi 110.000 descargas por mes, +3600 por día 🤯. Os lo agradezco uno a uno la cantidad de apoyo que ha recibido desde sus inicios.\n\nY por no olvidar el crecimiento de mis redes, cuando empecé el proyecto apenas éramos 3.000, y a día de hoy somos casi 20.000, una locura.\n\nDe nuevo, gracias por todo el apoyo, y os adelanto que se vienen cosas muy buenas pronto 😎❤️.",
+        "author": "Battly Staff - 1ly4s0",
+        "publish_date": "2023-12-15 12:06:43"
+    },
+    {
+        "id": "8",
+        "title": "<span style='font-size: 22'>Un gran alivio...</span>",
+        "content": "<span style='font-size: 17'>Resumen</span>\nÚltimamente, Battly ha recibido muchas acusaciones de que accede a la cámara y puede acceder al portapapeles.\n\n<span style='font-size: 17'>Aclaraciones</span>\n¡Confirmado! Battly no accede a la cámara. He realizado pruebas con otras aplicaciones que usan la misma dependencia para crear los instaladores y en todos sale lo mismo, que accede a la cámara y al portapapeles. Esto es un error de CAPA (lo que usa VirusTotal para analizar archivos). Podemos confirmar que Battly no hace esto. Gracias a todos los que hayáis confiado en Battly y gracias a todos por el apoyo ❤️.",
+        "author": "Battly Staff - 1ly4s0",
+        "publish_date": "2023-12-06 12:06:43"
+    },
+    {
+        "id": "7",
+        "title": "<span style='font-size: 25'>⚠️Aviso crítico respecto a Battly Launcher</span>",
+        "content": "<span style='font-size: 17'>Resumen</span>\nÚltimamente, Battly ha recibido muchas acusaciones de que accede a la cámara y puede acceder al portapapeles. Quiero aclarar con este comunicado que esto no es real, existe la sospecha, pero no significa que eso sea real.\n\nLa razón por la que aparece es debido a que al analizar el instalador de Battly para 64 bits, aparece que los comportamientos que tiene son varios, entre ellos 'Video capture > Capture webcam image' y 'Clipboard Data > Open clipboard'. Estas pruebas las da el mismo VirusTotal.\n<img src='https://cdn.discordapp.com/attachments/933698201486237716/1181008077076570152/image_7_1.png'>\n\n\n<span style='font-size: 17'>Aclaraciones</span>\n¿Entonces es real lo que dice VirusTotal? No. VirusTotal analiza el instalador tal cual, con una serie de aplicaciones, entre ellos 'CAPA', una aplicación de código abierto de ingeniería inversa que se dedica a analizar los comportamientos de las aplicaciones.\n\nAl descargar CAPA en mi PC e intentar analizar el instalador de Battly, me advierte de que CAPA no analiza los instaladores de aplicaciones, y que si lo hace, no es capaz de analizar los instaladores correctamente, eso significa que los resultados pueden ser erróneos/engañosos o incompletos, lo que puede derivar al caso de estos falsos positivos de Battly.\n<img src='https://media.discordapp.net/attachments/954957708614856765/1180970642988863499/image.png'>\n\nOtra de las pruebas de que el instalador de Battly no usa la cámara, es la prueba que he hecho con el antivirus 'Norton', un antivirus de pago que protege al 100% a tu PC. ¿A qué viene eso diréis? Pues Norton, se encarga de controlar qué aplicaciones quieren acceder a tu cámara y te notifica cuando una quiere hacerlo, pero ejecutando el instalador de Battly y abriéndolo, no notifica Norton de que Battly intenta acceder a la cámara.\n\nOtra prueba, sería que si firmamos el instalador de Battly o usamos la versión universal o la de 32 bits, dejan de aparecer estas alertas, cosa que no debería pasar ya que el instalador de Battly siempre es el mismo, extrae los mismos archivos, entonces no tendría mucho sentido que uno sí dé esa advertencia y otro no. Podríamos confirmar que es fallo de CAPA.\n\nPor otra parte, si analizamos el instalador de Battly desde tria.ge, no aparecerá absolutamente nada sospechoso como pasaba con VirusTotal. Algunos podréis decir, pero puede ser que VirusTotal tenga razón, pero no es así. VirusTotal es mejor para analizar archivos maliciosos, y tria.ge para analizar comportamientos de aplicaciones. Desde tria.ge, puedo darle a siguiente, elegir la ruta de instalación, completarla e incluso abrir Battly, pero VirusTotal no hace eso. Entonces desde tria.ge podríamos tener mejores resultados respecto a comportamiento. ¿Y sabéis qué? tria.ge no advierte de absolutamente nada relacionado a la cámara.\n<img src='https://media.discordapp.net/attachments/954957708614856765/1180970700014628994/image.png'>\n\n\n\n<span style='font-size: 17'>Conclusión</span>\nYa he cambiado las versiones descargables para que podáis descargar las versiones universales, ahora ya no habrá ningún falso positivo. Este aviso os lo he dado por si en un futuro se os advierte de esto, que sepáis que es cierto, pero yo os he avisado y os he dado pruebas de que esto es falso. Queda en vuestras manos confiar o no, vosotros tenéis la última decisión.\n\nLos que me conozcan de cerca sabrán que yo nunca haría eso, siempre he querido ser el único Launcher sin problemas, pero debido a estos falsos positivos se nos hace complicado, espero que pese a esto, sigáis confiando en Battly como lo habéis hecho desde el día 0.\n\n\n\nGracias a todos los que hayáis leído esto y gracias a todos por el apoyo ❤️.",
+        "author": "Battly Staff - 1ly4s0",
+        "publish_date": "2023-12-03 23:47:43"
+    },
+    {
+        "id": "6",
+        "title": "500.000 descargas",
+        "content": "5 meses han pasado... Y a día de hoy ya acumulamos más de 500.000 descargas en Battly.\n\nDía a día, Battly recibe más y más apoyo, construyendo una gran comunidad que confía en nosotros. Agradezco mucho el apoyo que le estáis dando a Battly a diario, porque la cantidad de apoyo y veros a vostros disfrutando de Minecraft sin estar preocupados por la seguridad de vuestros datos hace que siga con el desarrollo de Battly. De nuevo, gracias ❤️",
+        "author": "Battly Staff - 1ly4s0",
+        "publish_date": "2023-11-18 12:47:43"
+    },
+    {
+        "id": "5",
+        "title": "Problemas con Forge",
+        "content": "¿Problemas con Forge 1.20.1? No pasa nada, no es tu PC ni tampoco Battly.\nForge recientemente sacó una actualización a la versión 1.20.1 de Minecraft y al parecer está corrupta o no la subieron correctamente, cosa que provoca que Battly no pueda encontrar la versión. Actualmente no hay solución, el resto de versiones no fallan. Estaré avisando de más novedades respecto a este tema. Gracias por confiar en Battly ❤️\n\n",
+        "author": "Battly Staff - 1ly4s0",
+        "publish_date": "2023-11-16 12:47:43"
+    },
+    {
+        "id": "4",
+        "title": "Nuevo Battly BETA",
+        "content": "Hemos lanzado una nueva versión de Battly BETA, la 1.4.0-beta. Esta versión incluirá las nuevas actualizaciones más recientes, podrás recicibr las actualizaciones antes que nadie. Puedes descargarla desde www.battlylauncher.com/beta. Podrás darnos tu opinión en el servidor de Discord. ¡Esperamos que os guste!",
+        "author": "Battly Staff - 1ly4s0",
+        "publish_date": "2023-09-19 16:13:43"
+    },
+    {
+        "id": "3",
+        "title": "Psst... tú, sí, tú. ¡Mira esto!",
+        "content": "¿Quieres conseguir Battly Premium durante 3 meses? Si es así, únete al servidor de Discord y pregunta sobre ello para así participar en el sorteo. ¡Mucha suerte!",
+        "author": "Battly Staff - 1ly4s0",
+        "publish_date": "2023-09-12 13:53:43"
+    },
+    {
+        "id": "2",
+        "title": "100.000 descargas",
+        "content": "¡Hola a todos los jugadores de Battly! Muchísimas gracias a todos por las +100.000 descargas de Battly. Es un apoyo muy grande que este proyecto ha pasado de ser de un grupo de personas a cientos de miles de personas. Simplemente gracias ❤️",
+        "author": "Battly Staff - 1ly4s0",
+        "publish_date": "2023-08-27 13:53:43"
+    },
+    {
+        "id": "1",
+        "title": "¡Gracias a todos!",
+        "content": "¡Hola gamers! Os queremos mandar un saludo desde el equipo de Battly y un agradecimiento por todo el apoyo que está recibiendo Battly! Queremos agradeceros al máximo la cantidad de gente que la ha descargado y la está usando. Gracias a todos ❤️",
+        "author": "Battly Staff - 1ly4s0",
+        "publish_date": "2023-07-30 21:10:43"
+    }
+]
