@@ -1,0 +1,1081 @@
+{
+    "versions": [
+        {
+            "type": "client",
+            "version": "cmpack",
+            "name": "CM-Pack",
+            "imgUrl": "./assets/images/icons/cmpack.png",
+            "downlaodUrl": "https://raw.githubusercontent.com/1ly4s0/battlylauncher-clients/main/cmpack.zip",
+            "folderName": "cmpack_1.8.8"
+        },
+        {
+            "type": "client",
+            "version": "aresclient",
+            "name": "Ares",
+            "imgUrl": "./assets/images/icons/ares.png",
+            "downlaodUrl": "https://cdn.discordapp.com/attachments/933698201486237716/1197188482343374948/aresclient.zip",
+            "folderName": "Ares-3.0.1.8"
+        },
+        {
+            "type": "client",
+            "version": "batmod",
+            "name": "BatMod",
+            "imgUrl": "./assets/images/icons/batmod.png",
+            "downlaodUrl": "https://raw.githubusercontent.com/1ly4s0/battlylauncher-clients/main/batmod.zip",
+            "folderName": "BatMod"
+        },
+        {
+            "type": "client",
+            "version": "msclient",
+            "name": "MS Client",
+            "imgUrl": "./assets/images/icons/ms.png",
+            "downlaodUrl": "https://raw.githubusercontent.com/1ly4s0/battlylauncher-clients/main/msclient.zip",
+            "folderName": "MSClient"
+        },
+        {
+            "type": "client",
+            "version": "pixelclient",
+            "name": "Pixel Client",
+            "imgUrl": "./assets/images/icons/pixel.png",
+            "downlaodUrl": "https://raw.githubusercontent.com/1ly4s0/battlylauncher-clients/main/pixelclient.zip",
+            "folderName": "PixelClient"
+        },
+        {
+            "type": "client",
+            "version": "netherclient",
+            "name": "Nether Client",
+            "imgUrl": "./assets/images/icons/nether.png",
+            "downlaodUrl": "https://raw.githubusercontent.com/1ly4s0/battlylauncher-clients/main/netherclient.zip",
+            "folderName": "Nether Client"
+        },
+        {
+            "type": "client",
+            "version": "beastclient",
+            "name": "Beast Client",
+            "imgUrl": "./assets/images/icons/beast.png",
+            "downlaodUrl": "https://raw.githubusercontent.com/1ly4s0/battlylauncher-clients/main/beastclient.zip",
+            "folderName": "Beast Client"
+        },
+        {
+            "type": "client",
+            "version": "plutoclient",
+            "name": "Pluto Client",
+            "imgUrl": "./assets/images/icons/pluto.png",
+            "downlaodUrl": "https://cdn.discordapp.com/attachments/933698201486237716/1197197213214965770/plutoclient.zip",
+            "folderName": "Pluto"
+        },
+        {
+            "version": "1.20.4",
+            "name": "1.20.4"
+        },
+        {
+            "version": "1.20.4-forge",
+            "name": "1.20.4 - Forge",
+            "realVersion": "1.20.4"
+        },
+        {
+            "version": "1.20.4-fabric",
+            "name": "1.20.4 - Fabric",
+            "realVersion": "1.20.4"
+        },
+        {
+            "version": "1.20.4-quilt",
+            "name": "1.20.4 - Quilt",
+            "realVersion": "1.20.4"
+        },
+        {
+            "version": "1.20.4-optifine",
+            "name": "1.20.4 - Optifine",
+            "realVersion": "1.20.4",
+            "fileName": "1.20.4-OptiFine_HD_U_I7_pre2"
+        },
+        {
+            "version": "1.20.3",
+            "name": "1.20.3"
+        },
+        {
+            "version": "1.20.3-forge",
+            "name": "1.20.3 - Forge",
+            "realVersion": "1.20.3"
+        },
+        {
+            "version": "1.20.3-fabric",
+            "name": "1.20.3 - Fabric",
+            "realVersion": "1.20.3"
+        },
+        {
+            "version": "1.20.3-quilt",
+            "name": "1.20.3 - Quilt",
+            "realVersion": "1.20.3"
+        },
+        {
+            "version": "1.20.2",
+            "name": "1.20.2"
+        },
+        {
+            "version": "1.20.2-forge",
+            "name": "1.20.2 - Forge",
+            "realVersion": "1.20.2"
+        },
+        {
+            "version": "1.20.2-fabric",
+            "name": "1.20.2 - Fabric",
+            "realVersion": "1.20.2"
+        },
+        {
+            "version": "1.20.2-quilt",
+            "name": "1.20.2 - Quilt",
+            "realVersion": "1.20.2"
+        },
+        {
+            "version": "1.20.2-optifine",
+            "name": "1.20.2 - Optifine",
+            "fileName": "1.20.2-OptiFine_HD_U_I7_pre1",
+            "realVersion": "1.20.2"
+        },
+        {
+            "version": "1.20.1",
+            "name": "1.20.1"
+        },
+        {
+            "version": "1.20.1-forge",
+            "name": "1.20.1 - Forge",
+            "realVersion": "1.20.1"
+        },
+        {
+            "version": "1.20.1-fabric",
+            "name": "1.20.1 - Fabric",
+            "realVersion": "1.20.1"
+        },
+        {
+            "version": "1.20.1-quilt",
+            "name": "1.20.1 - Quilt",
+            "realVersion": "1.20.1"
+        },
+        {
+            "version": "1.20.1-optifine",
+            "name": "1.20.1 - Optifine",
+            "fileName": "1.20.1-OptiFine_HD_U_I6_pre6",
+            "realVersion": "1.20.1"
+        },
+        {
+            "version": "1.20",
+            "name": "1.20"
+        },
+        {
+            "version": "1.20-forge",
+            "name": "1.20 - Forge",
+            "realVersion": "1.20"
+        },
+        {
+            "version": "1.20-fabric",
+            "name": "1.20 - Fabric",
+            "realVersion": "1.20"
+        },
+        {
+            "version": "1.20-quilt",
+            "name": "1.20 - Quilt",
+            "realVersion": "1.20"
+        },
+        {
+            "version": "1.20-optifine",
+            "name": "1.20 - Optifine",
+            "fileName": "1.20-OptiFine_HD_U_I5_pre5",
+            "realVersion": "1.20"
+        },
+        {
+            "version": "1.19.4",
+            "name": "1.19.4"
+        },
+        {
+            "version": "1.19.4-forge",
+            "name": "1.19.4 - Forge",
+            "realVersion": "1.19.4"
+        },
+        {
+            "version": "1.19.4-fabric",
+            "name": "1.19.4 - Fabric",
+            "realVersion": "1.19.4"
+        },
+        {
+            "version": "1.19.4-quilt",
+            "name": "1.19.4 - Quilt",
+            "realVersion": "1.19.4"
+        },
+        {
+            "version": "1.19.4-optifine",
+            "name": "1.19.4 - Optifine",
+            "fileName": "1.19.4-OptiFine_HD_U_I4",
+            "realVersion": "1.19.4"
+        },
+        {
+            "version": "1.19.3",
+            "name": "1.19.3"
+        },
+        {
+            "version": "1.19.3-forge",
+            "name": "1.19.3 - Forge",
+            "realVersion": "1.19.3"
+        },
+        {
+            "version": "1.19.3-fabric",
+            "name": "1.19.3 - Fabric",
+            "realVersion": "1.19.3"
+        },
+        {
+            "version": "1.19.3-quilt",
+            "name": "1.19.3 - Quilt",
+            "realVersion": "1.19.3"
+        },
+        {
+            "version": "1.19.3-optifine",
+            "name": "1.19.3 - Optifine",
+            "fileName": "1.19.3-OptiFine_HD_U_I3",
+            "realVersion": "1.19.3"
+        },
+        {
+            "version": "1.19.2",
+            "name": "1.19.2"
+        },
+        {
+            "version": "1.19.2-forge",
+            "name": "1.19.2 - Forge",
+            "realVersion": "1.19.2"
+        },
+        {
+            "version": "1.19.2-fabric",
+            "name": "1.19.2 - Fabric",
+            "realVersion": "1.19.2"
+        },
+        {
+            "version": "1.19.2-quilt",
+            "name": "1.19.2 - Quilt",
+            "realVersion": "1.19.2"
+        },
+        {
+            "version": "1.19.2-optifine",
+            "name": "1.19.2 - Optifine",
+            "fileName": "1.19.2-OptiFine_HD_U_I2",
+            "realVersion": "1.19.2"
+        },
+        {
+            "version": "1.19.1",
+            "name": "1.19.1"
+        },
+        {
+            "version": "1.19.1-forge",
+            "name": "1.19.1 - Forge",
+            "realVersion": "1.19.1"
+        },
+        {
+            "version": "1.19.1-fabric",
+            "name": "1.19.1 - Fabric",
+            "realVersion": "1.19.1"
+        },
+        {
+            "version": "1.19.1-quilt",
+            "name": "1.19.1 - Quilt",
+            "realVersion": "1.19.1"
+        },
+        {
+            "version": "1.19.1-optifine",
+            "name": "1.19.1 - Optifine",
+            "fileName": "1.19.1-OptiFine_HD_U_H9",
+            "realVersion": "1.19.1"
+        },
+        {
+            "version": "1.19",
+            "name": "1.19"
+        },
+        {
+            "version": "1.19-forge",
+            "name": "1.19 - Forge",
+            "realVersion": "1.19"
+        },
+        {
+            "version": "1.19-fabric",
+            "name": "1.19 - Fabric",
+            "realVersion": "1.19"
+        },
+        {
+            "version": "1.19-quilt",
+            "name": "1.19 - Quilt",
+            "realVersion": "1.19"
+        },
+        {
+            "version": "1.19-optifine",
+            "name": "1.19 - Optifine",
+            "fileName": "1.19-OptiFine_HD_U_H9",
+            "realVersion": "1.19"
+        },
+        {
+            "version": "1.18.2",
+            "name": "1.18.2"
+        },
+        {
+            "version": "1.18.2-forge",
+            "name": "1.18.2 - Forge",
+            "realVersion": "1.18.2"
+        },
+        {
+            "version": "1.18.2-fabric",
+            "name": "1.18.2 - Fabric",
+            "realVersion": "1.18.2"
+        },
+        {
+            "version": "1.18.2-quilt",
+            "name": "1.18.2 - Quilt",
+            "realVersion": "1.18.2"
+        },
+        {
+            "version": "1.18.2-optifine",
+            "name": "1.18.2 - Optifine",
+            "fileName": "1.18.2-OptiFine_HD_U_H9",
+            "realVersion": "1.18.2"
+        },
+        {
+            "version": "1.18.1",
+            "name": "1.18.1"
+        },
+        {
+            "version": "1.18.1-forge",
+            "name": "1.18.1 - Forge",
+            "realVersion": "1.18.1"
+        },
+        {
+            "version": "1.18.1-fabric",
+            "name": "1.18.1 - Fabric",
+            "realVersion": "1.18.1"
+        },
+        {
+            "version": "1.18.1-quilt",
+            "name": "1.18.1 - Quilt",
+            "realVersion": "1.18.1"
+        },
+        {
+            "version": "1.18.1-optifine",
+            "name": "1.18.1 - Optifine",
+            "fileName": "1.18.1-OptiFine_HD_U_H6",
+            "realVersion": "1.18.1"
+        },
+        {
+            "version": "1.18",
+            "name": "1.18"
+        },
+        {
+            "version": "1.18-forge",
+            "name": "1.18 - Forge",
+            "realVersion": "1.18"
+        },
+        {
+            "version": "1.18-fabric",
+            "name": "1.18 - Fabric",
+            "realVersion": "1.18"
+        },
+        {
+            "version": "1.18-quilt",
+            "name": "1.18 - Quilt",
+            "realVersion": "1.18"
+        },
+        {
+            "version": "1.18-optifine",
+            "name": "1.18 - Optifine",
+            "fileName": "1.18-OptiFine_HD_U_H3",
+            "realVersion": "1.18"
+        },
+        {
+            "version": "1.17.1",
+            "name": "1.17.1"
+        },
+        {
+            "version": "1.17.1-forge",
+            "name": "1.17.1 - Forge",
+            "realVersion": "1.17.1"
+        },
+        {
+            "version": "1.17.1-fabric",
+            "name": "1.17.1 - Fabric",
+            "realVersion": "1.17.1"
+        },
+        {
+            "version": "1.17.1-optifine",
+            "name": "1.17.1 - Optifine",
+            "fileName": "1.17.1-OptiFine_HD_U_H2_pre1",
+            "realVersion": "1.17.1"
+        },
+        {
+            "version": "1.17",
+            "name": "1.17"
+        },
+        {
+            "version": "1.17-fabric",
+            "name": "1.17 - Fabric",
+            "realVersion": "1.17"
+        },
+        {
+            "version": "1.17-optifine",
+            "name": "1.17 - Optifine",
+            "fileName": "1.17-OptiFine_HD_U_G9_pre26",
+            "realVersion": "1.17"
+        },
+        {
+            "version": "1.16.5",
+            "name": "1.16.5"
+        },
+        {
+            "version": "1.16.5-forge",
+            "name": "1.16.5 - Forge",
+            "realVersion": "1.16.5"
+        },
+        {
+            "version": "1.16.5-fabric",
+            "name": "1.16.5 - Fabric",
+            "realVersion": "1.16.5"
+        },
+        {
+            "version": "1.16.5-optifine",
+            "name": "1.16.5 - Optifine",
+            "fileName": "1.16.5-OptiFine_HD_U_G8",
+            "realVersion": "1.16.5"
+        },
+        {
+            "version": "1.16.4",
+            "name": "1.16.4"
+        },
+        {
+            "version": "1.16.4-forge",
+            "name": "1.16.4 - Forge",
+            "realVersion": "1.16.4"
+        },
+        {
+            "version": "1.16.4-fabric",
+            "name": "1.16.4 - Fabric",
+            "realVersion": "1.16.4"
+        },
+        {
+            "version": "1.16.4-optifine",
+            "name": "1.16.4 - Optifine",
+            "fileName": "1.16.4-OptiFine_HD_U_G7",
+            "realVersion": "1.16.4"
+        },
+        {
+            "version": "1.16.3",
+            "name": "1.16.3"
+        },
+        {
+            "version": "1.16.3-forge",
+            "name": "1.16.3 - Forge",
+            "realVersion": "1.16.3"
+        },
+        {
+            "version": "1.16.3-fabric",
+            "name": "1.16.3 - Fabric",
+            "realVersion": "1.16.3"
+        },
+        {
+            "version": "1.16.3-optifine",
+            "name": "1.16.3 - Optifine",
+            "fileName": "1.16.3-OptiFine_HD_U_G5",
+            "realVersion": "1.16.3"
+        },
+        {
+            "version": "1.16.2",
+            "name": "1.16.2"
+        },
+        {
+            "version": "1.16.2-forge",
+            "name": "1.16.2 - Forge",
+            "realVersion": "1.16.2"
+        },
+        {
+            "version": "1.16.2-fabric",
+            "name": "1.16.2 - Fabric",
+            "realVersion": "1.16.2"
+        },
+        {
+            "version": "1.16.2-optifine",
+            "name": "1.16.2 - Optifine",
+            "fileName": "1.16.2-OptiFine_HD_U_G5",
+            "realVersion": "1.16.2"
+        },
+        {
+            "version": "1.16.1",
+            "name": "1.16.1"
+        },
+        {
+            "version": "1.16.1-forge",
+            "name": "1.16.1 - Forge",
+            "realVersion": "1.16.1"
+        },
+        {
+            "version": "1.16.1-fabric",
+            "name": "1.16.1 - Fabric",
+            "realVersion": "1.16.1"
+        },
+        {
+            "version": "1.16.1-optifine",
+            "name": "1.16.1 - Optifine",
+            "fileName": "1.16.1-OptiFine_HD_U_G2",
+            "realVersion": "1.16.1"
+        },
+        {
+            "version": "1.16",
+            "name": "1.16"
+        },
+        {
+            "version": "1.16-fabric",
+            "name": "1.16 - Fabric",
+            "realVersion": "1.16"
+        },
+        {
+            "version": "1.15.2",
+            "name": "1.15.2"
+        },
+        {
+            "version": "1.15.2-forge",
+            "name": "1.15.2 - Forge",
+            "realVersion": "1.15.2"
+        },
+        {
+            "version": "1.15.2-fabric",
+            "name": "1.15.2 - Fabric",
+            "realVersion": "1.15.2"
+        },
+        {
+            "version": "1.15.2-optifine",
+            "name": "1.15.2 - Optifine",
+            "fileName": "1.15.2-OptiFine_HD_U_G6",
+            "realVersion": "1.15.2"
+        },
+        {
+            "version": "1.15.1",
+            "name": "1.15.1"
+        },
+        {
+            "version": "1.15.1-forge",
+            "name": "1.15.1 - Forge",
+            "realVersion": "1.15.1"
+        },
+        {
+            "version": "1.15.1-fabric",
+            "name": "1.15.1 - Fabric",
+            "realVersion": "1.15.1"
+        },
+        {
+            "version": "1.15",
+            "name": "1.15"
+        },
+        {
+            "version": "1.15-forge",
+            "name": "1.15 - Forge",
+            "realVersion": "1.15"
+        },
+        {
+            "version": "1.15-fabric",
+            "name": "1.15 - Fabric",
+            "realVersion": "1.15"
+        },
+        {
+            "version": "1.14.4",
+            "name": "1.14.4"
+        },
+        {
+            "version": "1.14.4-forge",
+            "name": "1.14.4 - Forge",
+            "realVersion": "1.14.4"
+        },
+        {
+            "version": "1.14.4-fabric",
+            "name": "1.14.4 - Fabric",
+            "realVersion": "1.14.4"
+        },
+        {
+            "version": "1.14.4-optifine",
+            "name": "1.14.4 - Optifine",
+            "fileName": "1.14.4-OptiFine_HD_U_G5",
+            "realVersion": "1.14.4"
+        },
+        {
+            "version": "1.14.3",
+            "name": "1.14.3"
+        },
+        {
+            "version": "1.14.3-forge",
+            "name": "1.14.3 - Forge",
+            "realVersion": "1.14.3"
+        },
+        {
+            "version": "1.14.3-fabric",
+            "name": "1.14.3 - Fabric",
+            "realVersion": "1.14.3"
+        },
+        {
+            "version": "1.14.3-optifine",
+            "name": "1.14.3 - Optifine",
+            "fileName": "1.14.3-OptiFine_HD_U_F2",
+            "realVersion": "1.14.3"
+        },
+        {
+            "version": "1.14.2",
+            "name": "1.14.2"
+        },
+        {
+            "version": "1.14.2-forge",
+            "name": "1.14.2 - Forge",
+            "realVersion": "1.14.2"
+        },
+        {
+            "version": "1.14.2-fabric",
+            "name": "1.14.2 - Fabric",
+            "realVersion": "1.14.2"
+        },
+        {
+            "version": "1.14.2-optifine",
+            "name": "1.14.2 - Optifine",
+            "fileName": "1.14.2-OptiFine_HD_U_F1",
+            "realVersion": "1.14.2"
+        },
+        {
+            "version": "1.14.1",
+            "name": "1.14.1"
+        },
+        {
+            "version": "1.14.1-fabric",
+            "name": "1.14.1 - Fabric",
+            "realVersion": "1.14.1"
+        },
+        {
+            "version": "1.14",
+            "name": "1.14"
+        },
+        {
+            "version": "1.14-fabric",
+            "name": "1.14 - Fabric",
+            "realVersion": "1.14"
+        },
+        {
+            "version": "1.13.2",
+            "name": "1.13.2"
+        },
+        {
+            "version": "1.13.2-forge",
+            "name": "1.13.2 - Forge",
+            "realVersion": "1.13.2"
+        },
+        {
+            "version": "1.13.1-optifine",
+            "name": "1.13.1 - Optifine",
+            "fileName": "1.13.1-OptiFine_HD_U_E4",
+            "realVersion": "1.13.1"
+        },
+        {
+            "version": "1.13.1",
+            "name": "1.13.1"
+        },
+        {
+            "version": "1.13-optifine",
+            "name": "1.13 - Optifine",
+            "fileName": "1.13-OptiFine_HD_U_E4",
+            "realVersion": "1.13"
+        },
+        {
+            "version": "1.13",
+            "name": "1.13"
+        },
+        {
+            "version": "1.12.2",
+            "name": "1.12.2"
+        },
+        {
+            "version": "1.12.2-forge",
+            "name": "1.12.2 - Forge",
+            "realVersion": "1.12.2"
+        },
+        {
+            "version": "1.12.2-optifine",
+            "name": "1.12.2 - Optifine",
+            "fileName": "1.12.2-OptiFine_HD_U_G6_pre1",
+            "realVersion": "1.12.2"
+        },
+        {
+            "version": "1.12.1",
+            "name": "1.12.1"
+        },
+        {
+            "version": "1.12.1-forge",
+            "name": "1.12.1 - Forge",
+            "realVersion": "1.12.1"
+        },
+        {
+            "version": "1.12.1-optifine",
+            "name": "1.12.1 - Optifine",
+            "fileName": "1.12.1-OptiFine_HD_U_G5",
+            "realVersion": "1.12.1"
+        },
+        {
+            "version": "1.12",
+            "name": "1.12"
+        },
+        {
+            "version": "1.12-forge",
+            "name": "1.12 - Forge",
+            "realVersion": "1.12"
+        },
+        {
+            "version": "1.12-optifine",
+            "name": "1.12 - Optifine",
+            "fileName": "1.12-OptiFine_HD_U_G5",
+            "realVersion": "1.12"
+        },
+        {
+            "version": "1.11.2",
+            "name": "1.11.2"
+        },
+        {
+            "version": "1.11.2-forge",
+            "name": "1.11.2 - Forge",
+            "realVersion": "1.11.2"
+        },
+        {
+            "version": "1.11.2-optifine",
+            "name": "1.11.2 - Optifine",
+            "fileName": "1.11.2-OptiFine_HD_U_G5",
+            "realVersion": "1.11.2"
+        },
+        {
+            "version": "1.11.1",
+            "name": "1.11.1"
+        },
+        {
+            "version": "1.11",
+            "name": "1.11"
+        },
+        {
+            "version": "1.11-forge",
+            "name": "1.11 - Forge",
+            "realVersion": "1.11"
+        },
+        {
+            "version": "1.11-optifine",
+            "name": "1.11 - Optifine",
+            "fileName": "1.11-OptiFine_HD_U_G5",
+            "realVersion": "1.11"
+        },
+        {
+            "version": "1.10.2",
+            "name": "1.10.2"
+        },
+        {
+            "version": "1.10.2-forge",
+            "name": "1.10.2 - Forge",
+            "realVersion": "1.10.2"
+        },
+        {
+            "version": "1.10.2-optifine",
+            "name": "1.10.2 - Optifine",
+            "fileName": "1.10.2-OptiFine_HD_U_I5",
+            "realVersion": "1.10.2"
+        },
+        {
+            "version": "1.10.1",
+            "name": "1.10.1"
+        },
+        {
+            "version": "1.10",
+            "name": "1.10"
+        },
+        {
+            "version": "1.10-forge",
+            "name": "1.10 - Forge",
+            "realVersion": "1.10"
+        },
+        {
+            "version": "1.10-optifine",
+            "name": "1.10 - Optifine",
+            "fileName": "1.10-OptiFine_HD_U_I5",
+            "realVersion": "1.10"
+        },
+        {
+            "version": "1.9.4",
+            "name": "1.9.4"
+        },
+        {
+            "version": "1.9.4-forge",
+            "name": "1.9.4 - Forge",
+            "realVersion": "1.9.4"
+        },
+        {
+            "version": "1.9.4-optifine",
+            "name": "1.9.4 - Optifine",
+            "fileName": "1.9.4-OptiFine_HD_U_I5",
+            "realVersion": "1.9.4"
+        },
+        {
+            "version": "1.9.3",
+            "name": "1.9.3"
+        },
+        {
+            "version": "1.9.2",
+            "name": "1.9.2"
+        },
+        {
+            "version": "1.9.2-optifine",
+            "name": "1.9.2 - Optifine",
+            "fileName": "1.9.2-OptiFine_HD_U_E3",
+            "realVersion": "1.9.2"
+        },
+        {
+            "version": "1.9.1",
+            "name": "1.9.1"
+        },
+        {
+            "version": "1.9",
+            "name": "1.9"
+        },
+        {
+            "version": "1.9-forge",
+            "name": "1.9 - Forge",
+            "realVersion": "1.9"
+        },
+        {
+            "version": "1.9-optifine",
+            "name": "1.9 - Optifine",
+            "fileName": "1.9-OptiFine_HD_U_I5",
+            "realVersion": "1.9"
+        },
+        {
+            "version": "1.8.9",
+            "name": "1.8.9"
+        },
+        {
+            "version": "1.8.9-forge",
+            "name": "1.8.9 - Forge",
+            "realVersion": "1.8.9"
+        },
+        {
+            "version": "1.8.9-optifine",
+            "name": "1.8.9 - Optifine",
+            "fileName": "1.8.9-OptiFine_HD_U_M6_pre2",
+            "realVersion": "1.8.9"
+        },
+        {
+            "version": "1.8.8",
+            "name": "1.8.8"
+        },
+        {
+            "version": "1.8.8-forge",
+            "name": "1.8.8 - Forge",
+            "realVersion": "1.8.8"
+        },
+        {
+            "version": "1.8.8-optifine",
+            "name": "1.8.8 - Optifine",
+            "fileName": "1.8.8-OptiFine_HD_U_I7",
+            "realVersion": "1.8.8"
+        },
+        {
+            "version": "1.8.7",
+            "name": "1.8.7"
+        },
+        {
+            "version": "1.8.6",
+            "name": "1.8.6"
+        },
+        {
+            "version": "1.8.5",
+            "name": "1.8.5"
+        },
+        {
+            "version": "1.8.4",
+            "name": "1.8.4"
+        },
+        {
+            "version": "1.8.3",
+            "name": "1.8.3"
+        },
+        {
+            "version": "1.8.2",
+            "name": "1.8.2"
+        },
+        {
+            "version": "1.8.1",
+            "name": "1.8.1"
+        },
+        {
+            "version": "1.8",
+            "name": "1.8"
+        },
+        {
+            "version": "1.8-forge",
+            "name": "1.8 - Forge",
+            "realVersion": "1.8"
+        },
+        {
+            "version": "1.8-optifine",
+            "name": "1.8 - Optifine",
+            "fileName": "1.8-OptiFine_HD_U_I7",
+            "realVersion": "1.8"
+        },
+        {
+            "version": "1.7.10",
+            "name": "1.7.10"
+        },
+        {
+            "version": "1.7.10-forge",
+            "name": "1.7.10 - Forge",
+            "realVersion": "1.7.10"
+        },
+        {
+            "version": "1.7.10-optifine",
+            "name": "1.7.10 - Optifine",
+            "fileName": "1.7.10-OptiFine_HD_U_E7",
+            "realVersion": "1.7.10"
+        },
+        {
+            "version": "1.7.9",
+            "name": "1.7.9"
+        },
+        {
+            "version": "1.7.8",
+            "name": "1.7.8"
+        },
+        {
+            "version": "1.7.7",
+            "name": "1.7.7"
+        },
+        {
+            "version": "1.7.6",
+            "name": "1.7.6"
+        },
+        {
+            "version": "1.7.5",
+            "name": "1.7.5"
+        },
+        {
+            "version": "1.7.4",
+            "name": "1.7.4"
+        },
+        {
+            "version": "1.7.3",
+            "name": "1.7.3"
+        },
+        {
+            "version": "1.7.2",
+            "name": "1.7.2"
+        },
+        {
+            "version": "1.6.4",
+            "name": "1.6.4"
+        },
+        {
+            "version": "1.6.4-forge",
+            "name": "1.6.4 - Forge",
+            "realVersion": "1.6.4"
+        },
+        {
+            "version": "1.6.3",
+            "name": "1.6.3",
+            "realVersion": "1.6.3"
+        },
+        {
+            "version": "1.6.3-forge",
+            "name": "1.6.3 - Forge"
+        },
+        {
+            "version": "1.6.2",
+            "name": "1.6.2"
+        },
+        {
+            "version": "1.6.1",
+            "name": "1.6.1"
+        },
+        {
+            "version": "1.6",
+            "name": "1.6"
+        },
+        {
+            "version": "1.5.2",
+            "name": "1.5.2"
+        },
+        {
+            "version": "1.5.1",
+            "name": "1.5.1"
+        },
+        {
+            "version": "1.5",
+            "name": "1.5"
+        },
+        {
+            "version": "1.4.7",
+            "name": "1.4.7"
+        },
+        {
+            "version": "1.4.6",
+            "name": "1.4.6"
+        },
+        {
+            "version": "1.4.5",
+            "name": "1.4.5"
+        },
+        {
+            "version": "1.4.4",
+            "name": "1.4.4"
+        },
+        {
+            "version": "1.4.3",
+            "name": "1.4.3"
+        },
+        {
+            "version": "1.4.2",
+            "name": "1.4.2"
+        },
+        {
+            "version": "1.4.1",
+            "name": "1.4.1"
+        },
+        {
+            "version": "1.4",
+            "name": "1.4"
+        },
+        {
+            "version": "1.3.2",
+            "name": "1.3.2"
+        },
+        {
+            "version": "1.3.1",
+            "name": "1.3.1"
+        },
+        {
+            "version": "1.3",
+            "name": "1.3"
+        },
+        {
+            "version": "1.2.5",
+            "name": "1.2.5"
+        },
+        {
+            "version": "1.2.4",
+            "name": "1.2.4"
+        },
+        {
+            "version": "1.2.3",
+            "name": "1.2.3"
+        },
+        {
+            "version": "1.2.2",
+            "name": "1.2.2"
+        },
+        {
+            "version": "1.2.1",
+            "name": "1.2.1"
+        },
+        {
+            "version": "1.2",
+            "name": "1.2"
+        },
+        {
+            "version": "1.1",
+            "name": "1.1"
+        }
+    ]
+}
