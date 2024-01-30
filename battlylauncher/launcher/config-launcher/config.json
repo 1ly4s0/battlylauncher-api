@@ -1,0 +1,26 @@
+{
+    "maintenance": false,
+    "maintenance_message": "Actualizando Battly<br>Revisa el estado en el servidor de Discord",
+    "online": "http://api.battlylauncher.com",
+    "client_id": "e5b43016-7bd5-48b6-a495-ebf012e35819",
+    "game_version": "1.19.3",
+    "verify": false,
+    "java": true,
+    "game_args": [],
+    "dataDirectory": "battly",
+    "ignored": [],
+    "loader": {
+        "type": "forge",
+        "build": "latest",
+        "enable": false
+    },
+    "status": {
+        "nameServer": "Battly",
+        "ip": "",
+        "port": 36415
+    },
+    "new_version": false,
+    "new_version_message": "IMPORTANTE - Battly Launcher",
+    "new_version_news": "",
+    "new_version_html": "Recientemente, hemos recibido un ataque a Battly aprovechando una vulnerabilidad que teníamos en la web. Hoy, he trabajado duramente para mejorar la seguridad y evitar que esto pase de nuevo.<br>Si lees esto, es porque has recibido la actualización de seguridad, así que no tienes nada de qué preocuparte.<br><a class='button is-danger is-small' href='https://battlylauncher.com/blog-view?id=3' target='_blank'>Información del ataque</a>"
+}
